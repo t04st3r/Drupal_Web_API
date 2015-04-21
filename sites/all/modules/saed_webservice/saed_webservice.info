@@ -1,0 +1,6 @@
+name = Saed Web Service
+description = SAED REST Web Services for testing and learning purposes
+core = 7.x
+package = "Saed Web Service"
+dependencies[] = services
+files[] = saed_webservice.inc saed_webservice.module
