@@ -7,7 +7,7 @@ git clone git@github.com:t04st3r/Saed_drupal_WS.git
 
 oppure scaricarlo da Dropbox:
 
-http://goo.gl/cEHEou
+https://www.dropbox.com/s/ns49jhfz4iu8ilh/Saed_drupal_WS.zip?dl=0
 
 per importare il database MySQL
 
@@ -15,4 +15,4 @@ mysql -u root -p < /path/to/db_dump/dump.sql
 
 slide del seminario
 
-http://goo.gl/JcxOTO
+https://www.dropbox.com/s/yuut8wm5wlwom89/seminario%20SAED.pdf?dl=0
