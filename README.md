@@ -1,4 +1,4 @@
-# Drupal_WS
+# Drupal_Web_API
 
 Drupal 7.36 + Services module
 
