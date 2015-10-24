@@ -14,6 +14,6 @@ MySQL database import:
 
 mysql -u root -p < /path/to/db_dump/dump.sql
 
-Seminary slides:
+Seminar slides:
 
 https://www.dropbox.com/s/yuut8wm5wlwom89/seminario%20SAED.pdf?dl=0
